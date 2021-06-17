@@ -3,3 +3,5 @@
 
 # ignore ALL files in ANY directory named temp
 cloudflare_ssl_certificates/
+ingress/elb.amazonaws.com.cert.pem
+ingress/elb.amazonaws.com.key.pem
